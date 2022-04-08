@@ -1,0 +1,32 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Ordinary",
+	"hideFreeplay": false,
+	"weekBackground": "hello",
+	"weekBefore": "tooslow",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Spinning My Tails",
+			"ctails",
+			[
+				255,
+				113,
+				15
+			]
+		]
+	],
+	"weekCharacters": [
+		"spinning",
+		"my",
+		"tails"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "spinning-my-tails"
+}

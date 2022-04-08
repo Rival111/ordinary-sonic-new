@@ -1,0 +1,25 @@
+{
+	"storyName": "A friend from the future.",
+	"difficulties": "Ordinary",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Too Slow",
+			"freeplay",
+			[
+				44,
+				44,
+				207
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"sonic",
+		""
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ghz",
+	"weekName": "Too Slow"
+}
